@@ -224,7 +224,7 @@ INSERT INTO `countries` (`country_id`, `code`, `name`, `full_name`, `iso3`, `cou
 (203,	'SO',	'Somalia',	'Somali Republic',	'SOM',	706,	'AF',	1),
 (204,	'ZA',	'South Africa',	'Republic of South Africa',	'ZAF',	710,	'AF',	1),
 (205,	'GS',	'South Georgia and South Sandwich Islands',	'South Georgia and the South Sandwich Islands',	'SGS',	239,	'AN',	2),
-(206,	'SS',	'South Sudan',	'Republic of South Sudan',	'SSD',	728,	'AF',	1)
+(206,	'SS',	'South Sudan',	'Republic of South Sudan',	'SSD',	728,	'AF',	1),
 (207,	'ES',	'Spain',	'Kingdom of Spain',	'ESP',	724,	'EU',	4),
 (208,	'LK',	'Sri Lanka',	'Democratic Socialist Republic of Sri Lanka',	'LKA',	144,	'AS',	3),
 (209,	'SD',	'Sudan',	'Republic of Sudan',	'SDN',	736,	'AF',	1),
